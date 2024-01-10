@@ -1,0 +1,15 @@
+.App {
+    padding: 2%;
+}
+
+button{
+    background-color:peachpuff;
+    border: none peachpuff;
+    padding: 0.2% 1%;
+}
+
+.new-task-data {
+    width: 25%;
+    height: 100px;
+    resize: none;
+}
