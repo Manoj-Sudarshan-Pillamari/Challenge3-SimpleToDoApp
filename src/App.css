@@ -9,7 +9,7 @@ button{
 }
 
 .new-task-data {
-    width: 25%;
+    width: 100%;
     height: 100px;
     resize: none;
 }
